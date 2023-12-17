@@ -1,0 +1,26 @@
+*{
+    text-align: center;
+}
+
+h2{
+    color: blueviolet;
+    font-weight: bolder;
+    font-size: 70px;
+}
+
+button{
+    padding: 15px 25px 15px 25px;
+    background-color: black;
+    color: white;
+}
+
+.btn:hover{
+    color: black;
+    background-color: white;
+    border-radius: 21px;
+    padding: 20px 42px 20px 42px;
+    font-size: 30px;
+    cursor: pointer;
+    font-family: 'Times New Roman', Times, serif;
+    transition: padding 1s, cursor 1s, font-family 1s, background-color 1s, border-radius 1s, font-size 1s;
+}

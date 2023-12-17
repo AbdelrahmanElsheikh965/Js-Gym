@@ -1,3 +1,3 @@
 # Js-Gym
 
-Lab 1 Live Deployed Link : [Go](https://soft-tulumba-7a13bd.netlify.app/)
+Live Deployed Link : [Go](https://soft-tulumba-7a13bd.netlify.app/)
