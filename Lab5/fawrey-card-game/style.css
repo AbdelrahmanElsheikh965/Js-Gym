@@ -1,0 +1,31 @@
+h2{
+  font-weight: bolder;
+  text-align: center;
+}
+
+button{
+  cursor: pointer;
+  color: white;
+  border: 1px solid blue;
+  background-color: black;
+  padding: 15px;
+  font-family: sans-serif;
+  border-radius: 12px;
+}
+
+img{
+  width: 40%;
+  display: block;
+  margin: auto;
+}
+
+.MyInputs{
+  text-align: center;  
+}
+
+#photo{
+  filter: blur(18px);
+  -webkit-filter: blur(18px);
+  display: flex;
+  justify-content: center;
+}
