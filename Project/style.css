@@ -1,0 +1,6 @@
+
+#newsUnitPhoto{
+  /* Add the blur effect */
+  filter: blur(18px);
+  -webkit-filter: blur(18px);
+}
